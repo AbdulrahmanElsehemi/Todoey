@@ -57,6 +57,7 @@
 		BC3D60D62295D7F600B3C2CB /* Controller */ = {
 			isa = PBXGroup;
 			children = (
+				BCA8A6082290995C006D79A3 /* AppDelegate.swift */,
 				BCA8A60A2290995C006D79A3 /* TodoListViewController.swift */,
 			);
 			path = Controller;
@@ -90,7 +91,6 @@
 		BCA8A6072290995C006D79A3 /* Todoey */ = {
 			isa = PBXGroup;
 			children = (
-				BCA8A6082290995C006D79A3 /* AppDelegate.swift */,
 				BC3D60D62295D7F600B3C2CB /* Controller */,
 				BC3D60D72295D82900B3C2CB /* Views */,
 				BC228E392295D894000B34F6 /* Supporting Files */,
